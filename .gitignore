@@ -1,0 +1,18 @@
+# OS / editor junk
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Huge raw national data - not needed to *run* FinalProject.py
+National ZCTA/
+Raw National ZCTA Data/
+OLD DOWNLOADS/
+
+# OSRM / OSM bulky routing data
+open_street_maps/
+
+# Misc junk folder – not needed for clone-and-run
+Miscellaneous/
